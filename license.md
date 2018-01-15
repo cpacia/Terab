@@ -1,8 +1,8 @@
-Copyright 2018 LOKAD SAS
+Copyright 2018 TROLL LABS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction other than the conditions set out below, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-1.	The grant to deal provided above is restricted to dealing in the Software only for purposes of applications or uses operating on the Bitcoin Cash (“BCH”) blockchain.
+1.	The grant to deal provided above is restricted to dealing in the Software only for purposes of applications or uses operating on the **Bitcoin (“BTC”)** blockchain.
 2.	Redistributions of all copies or substantial portions of the source code of the Software must retain the above copyright notice and permission notice, this list of conditions and the following disclaimer.
 3.	Redistributions of all copies or substantial portions of the object code of the Software must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 4.	Any work to the extent consisting of the Software or modifications made thereto, must be licensed under this license to anyone who comes into possession of a copy. regardless of how such work is packaged.  Each time such a work is conveyed to a recipient, the recipient automatically receives this license from the original licensors, to run, modify and otherwise deal with that work.
